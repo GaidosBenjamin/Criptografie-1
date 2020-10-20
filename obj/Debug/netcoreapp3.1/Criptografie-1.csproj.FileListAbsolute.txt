@@ -1,0 +1,13 @@
+/home/benji/dev/c#/Criptografie-1/bin/Debug/netcoreapp3.1/Criptografie-1
+/home/benji/dev/c#/Criptografie-1/bin/Debug/netcoreapp3.1/Criptografie-1.deps.json
+/home/benji/dev/c#/Criptografie-1/bin/Debug/netcoreapp3.1/Criptografie-1.runtimeconfig.json
+/home/benji/dev/c#/Criptografie-1/bin/Debug/netcoreapp3.1/Criptografie-1.runtimeconfig.dev.json
+/home/benji/dev/c#/Criptografie-1/bin/Debug/netcoreapp3.1/Criptografie-1.dll
+/home/benji/dev/c#/Criptografie-1/bin/Debug/netcoreapp3.1/Criptografie-1.pdb
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.csprojAssemblyReference.cache
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.AssemblyInfoInputs.cache
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.AssemblyInfo.cs
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.csproj.CoreCompileInputs.cache
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.dll
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.pdb
+/home/benji/dev/c#/Criptografie-1/obj/Debug/netcoreapp3.1/Criptografie-1.genruntimeconfig.cache
