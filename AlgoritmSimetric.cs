@@ -2,7 +2,7 @@ using System;
 
 namespace Criptografie_1 {
     abstract class AlgoritmSimetric {
-        private static string alphabet = "abcdefghijklmnopqrstuvwxyz";
+        protected static string alphabet = "abcdefghijklmnopqrstuvwxyz";
         public abstract string encryption(string text, string key);
 
         public abstract string decryption(string text, string key);
